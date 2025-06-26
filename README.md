@@ -1,6 +1,4 @@
-# Flightcontrol
 ### Hi there 👋,I'm keith.
-
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keithfpv&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=keithfpv&count_private=true)
 
