@@ -7,7 +7,7 @@
 - 📫 How to reach me: 928047987@qq.com
 - 😄 Read more about my FACEBOOK: [here](https://www.facebook.com/jie.keith/)
 
-![](https://github-readme-stats.vercel.app/api?username=keithfpv_icons=true&theme=transparent)
+
 
 
 ### My Skill Set
