@@ -9,7 +9,6 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=keithfpv_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
